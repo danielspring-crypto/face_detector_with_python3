@@ -1,0 +1,7 @@
+python==3
+
+pip
+(pip install pip)
+
+opencv2 
+(pip install opencv-python)
